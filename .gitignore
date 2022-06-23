@@ -1,9 +1,7 @@
 KUperation_code/건강보험심사평가원
 KUperation_code/대한민국전자약전
 KUperation_code/의약품안전나라
-
-KUperation_code/kuperation_backend/src/resources/application.properties
-
+KUperation_code/kuperation_backend/src/main/resources/application.properties
 .idea/
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,intellij,java
